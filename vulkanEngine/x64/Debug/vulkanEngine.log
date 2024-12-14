@@ -1,4 +1,5 @@
 ﻿  application.cpp
   main.cpp
   Generating Code...
+C:\Users\sergey\source\repos\vulkanEngine\vulkanEngine\application.cpp(458,1): warning C4715: 'HelloTriangleApplication::chooseSwapSurfaceFormat': not all control paths return a value
   vulkanEngine.vcxproj -> C:\Users\sergey\source\repos\vulkanEngine\x64\Debug\vulkanEngine.exe
